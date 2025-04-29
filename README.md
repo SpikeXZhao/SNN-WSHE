@@ -12,10 +12,10 @@
    - Supports 2D tensors, general feature maps, and native RGB image encoding
 
 2D tensor encoding:
-![2D tensor encoding](.img/tensor_code.jpeg)
+![2D tensor encoding](./img/tensor_code.jpeg)
 
 Graph encoding:
-![Graph encoding](.img/graph_code.jpeg)
+![Graph encoding](./img/graph_code.jpeg)
 ## Getting Started
 ### Install dependencies
 The encoder was developed under pytorch2.0.0+cu118:
