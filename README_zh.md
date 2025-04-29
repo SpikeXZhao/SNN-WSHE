@@ -11,10 +11,10 @@
    - 支持二维张量、一般特征图、原始RGB图像编码
 
 二维张量编码：
-![二维张量编码](.img/tensor_code.jpeg)
+![二维张量编码](./img/tensor_code.jpeg)
 
 图编码：
-![图编码](.img/graph_code.jpeg)
+![图编码](./img/graph_code.jpeg)
 ## 快速开始
 ### 安装依赖
 编码器在pytorch2.0.0+cu118下开发：
